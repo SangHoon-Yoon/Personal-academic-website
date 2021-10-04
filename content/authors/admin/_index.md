@@ -65,5 +65,3 @@ highlight_name: true
 ---
 
 SangHoon Yoon is a research assistant at Biomechanics of Occupation and Sport (BOS) Laboratory of McGill University. His research interests include sex-specific exercise biomechanics, physiology, and performance.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
