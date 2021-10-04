@@ -22,28 +22,24 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
+  - title: Research assistant
+    company: Biomechanics of Occupation and Sport Laboratory
     company_url: ''
-    company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
+    company_logo: org-mcgill
+    location: Montreal, QC
+    date_start: '2021-05-01'
     date_end: ''
     description: |2-
-        Responsibilities include:
+        Act as a sole liaison between the lab director and members
         
-        * Analysing
-        * Modelling
-        * Deploying
-        
-  - title: Professor of Semiconductor Physics
-    company: University X
+  - title: Research assistant
+    company: Institut national du sport du Québec
     company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    company_logo: org-ins
+    location: Montreal, QC
+    date_start: '2020-02-01'
+    date_end: '2020-04-30'
+    description: Assist with data acquisition and analyses for a project in collaboration with Judo Canada 
 
 design:
   columns: '2'
