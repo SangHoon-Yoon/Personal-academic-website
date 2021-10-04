@@ -5,7 +5,7 @@ title: Effects of cycling while typing on upper limb and performance characteris
 subtitle: ''
 summary: ''
 authors:
-- Sang Hoon Yoon
+- Sanghoon Yoon
 - Thierry Lefrançois-Daignault
 - Julie N. Côté
 tags:
