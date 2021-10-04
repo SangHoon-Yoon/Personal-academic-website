@@ -18,9 +18,9 @@ bio: My research interests include sex differences in fatigue responses during h
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Cellular mechanisms of skeletal muscle fatigue
+- High-intensity exercise
+- Sex differences
 
 # Education to show in About widget
 education:
@@ -46,9 +46,6 @@ social:
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
   link: https://scholar.google.com.au/citations?user=XUKzExIAAAAJ&hl=en
-- icon: github
-  icon_pack: fab
-  link: https://github.com/SangHoon-Yoon
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/andrew-sanghoon-yoon-0ab91217a/
@@ -56,9 +53,9 @@ social:
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
 # and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: uploads/resume.pdf
+- icon: cv
+icon_pack: ai
+link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
