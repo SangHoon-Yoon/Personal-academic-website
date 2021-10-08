@@ -40,6 +40,15 @@ experience:
     date_start: '2020-02-01'
     date_end: '2020-04-30'
     description: Assist with data acquisition and analyses for a project in collaboration with Judo Canada 
+  
+  - title: Program coordinator
+    company: Special Olympics Quebec
+    company_url: ''
+    company_logo: org-test
+    location: Montreal, QC
+    date_start: '2018-12-01'
+    date_end: ''
+    description: Recruit and coordinate volunteers for Unified Sport, Training Support Porject, and Virtual Workout/Yoga program.
 
 design:
   columns: '2'
