@@ -5,7 +5,7 @@ title: The Effect of Cycling While Typing on Patterns of Upper Body Muscle Activ
 subtitle: ''
 summary: ''
 authors:
-- Sanghoon Yoon
+- SangHoon Yoon
 - Thierry Lefrançois-Daignault
 - Julie N Côté
 tags: []

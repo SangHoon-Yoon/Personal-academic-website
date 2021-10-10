@@ -8,7 +8,7 @@ subtitle: ''
 summary: ''
 authors:
 - Christopher A. Bailey
-- Sang Hoon Yoon
+- SangHoon Yoon
 - Julie N. Côté
 tags:
 - '"Aging"'
