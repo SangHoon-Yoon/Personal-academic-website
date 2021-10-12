@@ -29,8 +29,7 @@ experience:
     location: Montreal, QC
     date_start: '2021-05-01'
     date_end: ''
-    description: |2-
-        Act as a sole liaison between the lab director and members
+    description: Act as a sole liaison between the lab director and members
         
   - title: Research assistant
     company: Institut national du sport du Québec
