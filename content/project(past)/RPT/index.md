@@ -1,6 +1,6 @@
 ---
-title: Repeated sprints exercise
-summary: Sex-specific peripheral and central fatigue mechanisms of repeated all-out cycling
+title: Repetitive arm task
+summary: Sex-specific physiological responses to repetitive pointing task
 
 date: "2021-10-11"
 
