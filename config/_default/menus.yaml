@@ -11,10 +11,10 @@ main:
     url: '#experience'
     weight: 20
   - name: Current Projects
-    url: '#project (current)'
+    url: '#project_current'
     weight: 30
   - name: Past Projects
-    url: '#project (past)'
+    url: '#project_past'
     weight: 40
   - name: Publications
     url: '#publications'
