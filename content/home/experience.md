@@ -29,7 +29,8 @@ experience:
     location: Montreal, QC
     date_start: '2021-05-01'
     date_end: ''
-    description: Act as a sole liaison between the lab director and members
+    description: Communicate effectively with the lab director and members to facilitate research projects.
+
 
   - title: Program coordinator
     company: Special Olympics Quebec
@@ -38,7 +39,7 @@ experience:
     location: Montreal, QC
     date_start: '2018-12-01'
     date_end: ''
-    description: Recruit and coordinate volunteers for Unified Sport, Training Support Porject, and Virtual Workout/Yoga program.        
+    description: Recruit and coordinate volunteers for Unified Sport, Training Support Project, and Virtual Workout/Yoga program.        
 
   - title: Research assistant
     company: Institut national du sport du Québec
@@ -47,7 +48,7 @@ experience:
     location: Montreal, QC
     date_start: '2020-02-01'
     date_end: '2020-04-30'
-    description: Assist with data acquisition and analyses for a project in collaboration with Judo Canada 
+    description: Assist with data acquisition and analysis for a project in collaboration with Judo Canada 
 
 design:
   columns: '2'
