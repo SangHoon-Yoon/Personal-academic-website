@@ -24,6 +24,6 @@ url_video: ""
 slides: ""
 ---
 
-To be updated soon...
+Is has been postulated that females lower fatigue responses following high-intensity exercise may be due to the lower mechanical work performed compared to males. The objective of this study was to compare peripheral (quadriceps twitch force, muscle deoxygenation) and central (voluntary activation) fatigue between the sexes during repeated all-out cycling. The novel aspect of this work was that we covaried for total mechanical work and corrected the NIRS data for subcutaneous adipose tissue thickness to facilitate intersubject comparison. We found that despite adjusting for total work, females still showed greater fatigue resistance in the locomotor muscles: females showed lower muscle deoxygenation, peripehral fatigue, as well as smaller reduction in maximal rate of force development. We speculate that this is ultimately due to sex differences in muscle fiber type I/II. Manuscript is currently in preparation.
 
-
+Yoon, S., Cederbaum, A. L., & Côté, J. N. Sex differences in peripheral and central fatigue during repeated all-out cycling after adjusting for total mechanical work. Manuscript in preparation.
