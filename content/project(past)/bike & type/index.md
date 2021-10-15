@@ -24,7 +24,7 @@ url_video: ""
 slides: ""
 ---
 
-Cycling workstation may be a novel solution to counteract the sedentarism in the office environment. The objectives of this project were to examine the effects of: 1) pedaling intensity (25% vs 40% heart rate reserve) and 2) biological sex (male vs female). The outcome measures included typing performance, neck/shoulder muscle activity, blood flow, sensitivity, and discomfort. In brief, we found that males and females respond differently to the different pedaling intensities. For more details, please refer to studies below:
+Cycling workstation may be a novel solution to counteract the sedentarism in the office environment. The objectives of this project were to examine the effects of: 1) pedaling intensity (25% vs 40% heart rate reserve) and 2) biological sex (male vs female). The outcome measures included typing performance, neck/shoulder muscle activity, blood flow, sensitivity, and discomfort. In brief, we found that males and females respond differently to the different pedaling intensities, which should be considered when implementing mobile workstations in office setting. For more details, please refer to studies below:
 
 Yoon, S., Lefrançois-Daignault, T., & Côté, J. N. (2019). Effects of cycling while typing on upper limb and performance characteristics. Applied ergonomics, 80, 161-167. https://doi.org/10.1016/j.apergo.2019.05.015
 
