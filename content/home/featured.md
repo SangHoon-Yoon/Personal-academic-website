@@ -41,4 +41,4 @@ Maunder, E., Bradley, H. E., Deane, C. S., Hodgson, A. B., Jones, M., Joanisse, 
 
 Dotan, R., Woods, S., & Contessa, P. (2021). On the reliability and validity of central fatigue determination. European Journal of Applied Physiology, 121(9), 2393–2411. https://doi.org/10.1007/s00421-021-04700-w
 
-Lakens, D. (2010). Sample Size Justification. Unpublished, 1–31. https://psyarxiv.com/9d3yf/
+Lakens, D. (2010). Sample Size Justification. Collabra: Psychology, 1–31. https://psyarxiv.com/9d3yf/
