@@ -38,7 +38,7 @@ experience:
     company_logo: org-test
     location: Montreal, QC
     date_start: '2018-12-01'
-    date_end: ''
+    date_end: '2021-12-01'
     description: Recruit and coordinate volunteers for Unified Sport, Training Support Project, and Virtual Workout/Yoga program.        
 
   - title: Research assistant
