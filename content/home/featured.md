@@ -37,8 +37,8 @@ design:
   #   4 = Citation (publication only)
   view: 3
 ---
-Cheng, A. J., Place, N., & Westerblad, H. (2018). Molecular basis for exercise-induced fatigue: the importance of strictly controlled cellular Ca2+ handling. Cold Spring Harbor perspectives in medicine, 8(2), a029710. https://doi.org/10.1101/cshperspect.a029710
+Maunder, E., Bradley, H. E., Deane, C. S., Hodgson, A. B., Jones, M., Joanisse, S., Turner, A. M., Breen, L., Philp, A., & Wallis, G. A. (2021). Effects of short-term graded dietary carbohydrate intake on intramuscular and whole body metabolism during moderate-intensity exercise. Journal of Applied Physiology, 131(1), 376–387. https://doi.org/10.1152/japplphysiol.00811.2020
 
-Gejl, K. D., Hvid, L. G., Frandsen, U., Jensen, K., Sahlin, K., & Ørtenblad, N. (2014). Muscle glycogen content modifies SR Ca2+ release rate in elite endurance athletes. Medicine & Science in Sports & Exercise, 46(3), 496-505. https://doi.org/10.1249/MSS.0000000000000132
+Dotan, R., Woods, S., & Contessa, P. (2021). On the reliability and validity of central fatigue determination. European Journal of Applied Physiology, 121(9), 2393–2411. https://doi.org/10.1007/s00421-021-04700-w
 
-Vigh-Larsen, J. F., Ørtenblad, N., Spriet, L. L., Overgaard, K., & Mohr, M. (2021). Muscle Glycogen Metabolism and High-Intensity Exercise Performance: A Narrative Review. Sports Medicine, 1-20. https://doi.org/10.1007/s40279-021-01475-0 
+Lakens, D. (2010). Sample Size Justification. Unpublished, 1–31. https://psyarxiv.com/9d3yf/
