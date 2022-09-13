@@ -6,12 +6,12 @@ title: SangHoon Yoon
 superuser: true
 
 # Role/position/tagline
-role: Research assistant
+role: PhD student
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: McGill University
-  url: https://www.mcgill.ca/
+- name: Auckland University of Technology
+  url: https://www.aut.ac.nz/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include sex differences in fatigue responses during high-intensity exercise.
@@ -67,4 +67,4 @@ email: ""
 highlight_name: true
 ---
 
-SangHoon (Andrew) Yoon is a research assistant at Biomechanics of Occupation and Sport (BOS) Laboratory of McGill University. His research interests include sex differences in exercise biomechanics, physiology, and performance.
+SangHoon (Andrew) Yoon is a PhD student at Auckland University of technology. His research interests include sex differences in exercise metabolism and performance.

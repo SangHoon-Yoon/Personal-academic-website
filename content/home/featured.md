@@ -37,8 +37,8 @@ design:
   #   4 = Citation (publication only)
   view: 3
 ---
-Maunder, E., Bradley, H. E., Deane, C. S., Hodgson, A. B., Jones, M., Joanisse, S., Turner, A. M., Breen, L., Philp, A., & Wallis, G. A. (2021). Effects of short-term graded dietary carbohydrate intake on intramuscular and whole body metabolism during moderate-intensity exercise. Journal of Applied Physiology, 131(1), 376–387. https://doi.org/10.1152/japplphysiol.00811.2020
+McConell, G. (Ed.). (2022). Exercise Metabolism. Springer International Publishing. https://doi.org/10.1007/978-3-030-94305-9
 
-Dotan, R., Woods, S., & Contessa, P. (2021). On the reliability and validity of central fatigue determination. European Journal of Applied Physiology, 121(9), 2393–2411. https://doi.org/10.1007/s00421-021-04700-w
+Tarnopolsky, M. A. (2008). Sex differences in exercise metabolism and the role of 17-beta estradiol. Medicine and Science in Sports and Exercise, 40(4), 648–654. https://doi.org/10.1249/MSS.0b013e31816212ff
 
-Lakens, D. (2010). Sample Size Justification. Collabra: Psychology, 1–31. https://psyarxiv.com/9d3yf/
+Parolin, M. L., Chesley, A., Matsos, M. P., Spriet, L. L., Jones, N. L., & Heigenhauser, G. J. (1999). Regulation of skeletal muscle glycogen phosphorylase and PDH during maximal intermittent exercise. The American Journal of Physiology, 277(5), E890-900. https://doi.org/10.1152/ajpendo.1999.277.5.E890
