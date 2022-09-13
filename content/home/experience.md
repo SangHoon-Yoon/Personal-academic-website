@@ -22,13 +22,22 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Project administrator
+    company: Sylvan Adams Sports Science Institute
+    company_url: ''
+    company_logo: org-SASSI
+    location: Montreal, QC
+    date_start: '2021-05-01'
+    date_end: '2022-08-31'
+    description: Perform administrative duties and assist with grant & McGill institute status applications.
+
   - title: Research assistant
     company: Biomechanics of Occupation and Sport Laboratory
     company_url: ''
     company_logo: org-mcgill
     location: Montreal, QC
     date_start: '2021-05-01'
-    date_end: ''
+    date_end: '2022-08-31'
     description: Communicate effectively with the lab director and members to facilitate research projects.
 
 
