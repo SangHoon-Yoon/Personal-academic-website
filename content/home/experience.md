@@ -25,7 +25,7 @@ experience:
   - title: Project administrator
     company: Sylvan Adams Sports Science Institute
     company_url: ''
-    company_logo: org-SASSI
+    company_logo: org-sassi
     location: Montreal, QC
     date_start: '2021-12-01'
     date_end: '2022-08-31'
