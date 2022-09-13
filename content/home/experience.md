@@ -27,9 +27,9 @@ experience:
     company_url: ''
     company_logo: org-SASSI
     location: Montreal, QC
-    date_start: '2021-05-01'
+    date_start: '2021-12-01'
     date_end: '2022-08-31'
-    description: Perform administrative duties and assist with grant & McGill institute status applications.
+    description: Performed administrative duties and assisted with grant & McGill institute status applications.
 
   - title: Research assistant
     company: Biomechanics of Occupation and Sport Laboratory
@@ -38,7 +38,7 @@ experience:
     location: Montreal, QC
     date_start: '2021-05-01'
     date_end: '2022-08-31'
-    description: Communicate effectively with the lab director and members to facilitate research projects.
+    description: Co-lectured ABC of EMG course, assisted with students' projects, and ensured lab operation & maintenance.
 
 
   - title: Program coordinator
@@ -48,7 +48,7 @@ experience:
     location: Montreal, QC
     date_start: '2018-12-01'
     date_end: '2021-12-01'
-    description: Recruit and coordinate volunteers for Unified Sport, Training Support Project, and Virtual Workout/Yoga program.        
+    description: Recruited and coordinated volunteers for Unified Sport, Training Support Project, and Virtual Workout/Yoga program.
 
   - title: Research assistant
     company: Institut national du sport du Québec
@@ -57,7 +57,7 @@ experience:
     location: Montreal, QC
     date_start: '2020-02-01'
     date_end: '2020-04-30'
-    description: Assist with data acquisition and analysis for a project in collaboration with Judo Canada 
+    description: Assisted with data acquisition and analysis for a project in collaboration with Judo Canada.
 
 design:
   columns: '2'
