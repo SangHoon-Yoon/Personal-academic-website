@@ -67,4 +67,4 @@ email: ""
 highlight_name: true
 ---
 
-SangHoon (Andrew) Yoon is a PhD student at Auckland University of technology. His research interests include sex differences in exercise metabolism and performance.
+SangHoon (Andrew) Yoon is a PhD student at Auckland University of Technology. His research interests include sex differences in exercise metabolism and performance.
