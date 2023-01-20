@@ -13,7 +13,7 @@ headless: true
 weight: 120
 
 title: Top 3 reads of the month
-subtitle: "*Does not get updated regularly"
+subtitle: "More like every 3 months"
 
 content:
   # Page type to display. E.g. post, talk, publication...
