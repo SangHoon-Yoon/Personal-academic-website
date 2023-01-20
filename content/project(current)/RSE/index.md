@@ -1,5 +1,5 @@
 ---
-title: Repeated sprints exercise
+title: Repeated sprint exercise
 summary: Sex-specific peripheral and central fatigue mechanisms of repeated all-out cycling
 
 date: "2021-10-11"
