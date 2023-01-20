@@ -1,8 +1,8 @@
 ---
-title: Potassium-glycogen interaction
-summary: Potassium-carbohydrate interaction during fatigue induced by high intensity exercise in females and males
+title: Repeated sprint exercise
+summary: Sex-specific peripheral and central fatigue mechanisms of repeated all-out cycling
 
-date: "2023-01-20"
+date: "2021-10-11"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -23,4 +23,9 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
-Recent studies using animal models have revealed that muscle fatigue caused by disturbances in potassium levels is exacerbated when glycogen levels are low, confirming the interaction between potassium and glycogen. Further, glucose may also interact with potassium to protect against impaired muscle contractile function during fatigue, regardless of glycogen levels. It is likely that reduced muscle glycogen and glucose levels during exercise decrease the energy availability for Na+/K+-ATPase, exacerbating disturbances in potassium and muscle contractility. However, this interaction has only been studied in isolated muscle preparations. My PhD thesis aims to investigate the relationship between potassium and carbohydrates in human exercise performance and whether this differs between females and males.
+
+It is postulated that females' lower fatigue responses-induced by high-intensity exercise is attributed to the lower mechanical work performed compared to males. The objective of this study was to compare peripheral (quadriceps twitch force, muscle deoxygenation) and central (voluntary activation) fatigue mechanisms between the sexes during repeated all-out cycling. The novel aspect of this work was that we covaried for total mechanical work and corrected the NIRS data for subcutaneous adipose tissue thickness, facilitating intersubject comparison. We found that females showed greater fatigue resistance in the locomotor muscles: lower muscle deoxygenation, peripehral fatigue, as well as smaller reduction in maximal rate of force development (related to excitation-contraction coupling). We speculate that this is ultimately due to sex differences in muscle metabolism related to their muscle fiber type I/II. Manuscript is currently in preparation and was presented at CSEP conference.
+
+Yoon, S., Cederbaum, A. L., & Côté, J. N. Sex differences in peripheral and central fatigue during repeated all-out cycling after adjusting for total mechanical work. Manuscript in preparation.
+
+Yoon, S., Cederbaum, A. L., & Côté, J. N. (2021). Does adjusting for mechanical work affect sex differences in peripheral and central fatigue during repeated sprints? CSEP Annual General Meeting - Zooming into the Future: Exercise Science in the Virtual Age. Oral presentation.
