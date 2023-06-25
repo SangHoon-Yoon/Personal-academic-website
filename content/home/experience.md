@@ -22,7 +22,25 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Project administrator
+- title: Research technician (Casual)
+    company: Sports Performance Research Institute New Zealand 
+    company_url: ''
+    company_logo: org-sassi
+    location: Auckland, New Zealand
+    date_start: '2023-05-01'
+    date_end: 'Present'
+    description: Support research initiatives, manage and troubleshoot lab equipment.
+
+- title: Teaching assistant
+    company: Auckland University of Technology
+    company_url: ''
+    company_logo: org-sassi
+    location: Auckland, New Zealand
+    date_start: '2023-02-01'
+    date_end: 'Present'
+    description: Lead 'Evidence based practice' (SPOR608) tutorials and assist with 'Exercise Physiology' (SPSC605) laboraty component; grade assignments.
+
+ - title: Project administrator
     company: Sylvan Adams Sports Science Institute
     company_url: ''
     company_logo: org-sassi
