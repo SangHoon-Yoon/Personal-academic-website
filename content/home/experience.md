@@ -10,7 +10,7 @@ headless: true
 weight: 40
 
 title: Experience
-subtitle:
+subtitle: ""
 
 # Date format for experience
 #   Refer to https://wowchemy.com/docs/customization/#date-format
@@ -22,25 +22,25 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-- title: Research technician (Casual)
+  - title: Research technician (Casual)
     company: Sports Performance Research Institute New Zealand 
-    company_url: ''
-    company_logo: org-sassi
+    company_url: ""
+    company_logo: org-sprinz
     location: Auckland, New Zealand
-    date_start: '2023-05-01'
-    date_end: 'Present'
+    date_start: "2023-05-01"
+    date_end: ""
     description: Support research initiatives, manage and troubleshoot lab equipment.
 
-- title: Teaching assistant
+  - title: Teaching assistant
     company: Auckland University of Technology
-    company_url: ''
-    company_logo: org-sassi
+    company_url: ""
+    company_logo: org-aut
     location: Auckland, New Zealand
-    date_start: '2023-02-01'
-    date_end: 'Present'
-    description: Lead 'Evidence based practice' (SPOR608) tutorials and assist with 'Exercise Physiology' (SPSC605) laboraty component; grade assignments.
+    date_start: "2023-02-01"
+    date_end: ""
+    description: Lead 'Evidence based practice' (SPOR608) tutorials and assist with 'Exercise Physiology' (SPSC605) laboratory component; grade assignments.
 
- - title: Project administrator
+  - title: Project administrator
     company: Sylvan Adams Sports Science Institute
     company_url: ''
     company_logo: org-sassi
@@ -57,7 +57,6 @@ experience:
     date_start: '2021-05-01'
     date_end: '2022-08-31'
     description: Co-lectured ABC of EMG course, assisted with students' projects, and ensured lab operation & maintenance.
-
 
   - title: Program coordinator
     company: Special Olympics Quebec
