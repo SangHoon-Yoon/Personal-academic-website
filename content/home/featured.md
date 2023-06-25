@@ -12,8 +12,8 @@ headless: true
 # Order that this section appears on the page.
 weight: 120
 
-title: Top 3 reads of the month
-subtitle: "More like every 3 months"
+title: Top 3 reads since last update
+subtitle: "Figuring out the best protocol for critical torque/end-test torque calculation and M-wave amplitude analysis"
 
 content:
   # Page type to display. E.g. post, talk, publication...
@@ -37,8 +37,8 @@ design:
   #   4 = Citation (publication only)
   view: 3
 ---
-McConell, G. (Ed.). (2022). Exercise Metabolism. Springer International Publishing. https://doi.org/10.1007/978-3-030-94305-9
+Burnley, M. (2009). Estimation of critical torque using intermittent isometric maximal voluntary contractions of the quadriceps in humans. Journal of Applied Physiology, 106(3), 975–983. https://doi.org/10.1152/japplphysiol.91474.2008
 
-Tarnopolsky, M. A. (2008). Sex differences in exercise metabolism and the role of 17-beta estradiol. Medicine and Science in Sports and Exercise, 40(4), 648–654. https://doi.org/10.1249/MSS.0b013e31816212ff
+Ducrocq, G. P., Al Assad, S. H., Kouzkouz, N., & Hureau, T. J. (2023). The Role of Contraction Mode in Determining Exercise Tolerance, Torque-Duration Relationship, and Neuromuscular Fatigue. Medicine & Science in Sports & Exercise, Publish Ahead of Print. https://doi.org/10.1249/MSS.0000000000003145
 
-Parolin, M. L., Chesley, A., Matsos, M. P., Spriet, L. L., Jones, N. L., & Heigenhauser, G. J. (1999). Regulation of skeletal muscle glycogen phosphorylase and PDH during maximal intermittent exercise. The American Journal of Physiology, 277(5), E890-900. https://doi.org/10.1152/ajpendo.1999.277.5.E890
+Rodriguez-Falces, J., & Place, N. (2018). Determinants, analysis and interpretation of the muscle compound action potential (M wave) in humans: Implications for the study of muscle fatigue. European Journal of Applied Physiology, 118(3), 501–521. https://doi.org/10.1007/s00421-017-3788-5
