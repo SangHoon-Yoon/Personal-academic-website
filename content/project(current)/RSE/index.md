@@ -1,6 +1,6 @@
 ---
-title: Potassium-carbohydrate interaction
-summary: Potassium-carbohydrate interaction during fatigue induced by high intensity exercise in females and males.
+title: Potassium-glycogen interaction
+summary: Potassium-glycogen interaction during fatigue induced by high intensity exercise in females and males.
 
 date: "2023-01-20"
 
@@ -24,4 +24,4 @@ url_video: ""
 slides: ""
 ---
 
-Recent studies using animal models have revealed that muscle fatigue caused by disturbances in potassium levels is exacerbated when glycogen levels are low, confirming the interaction between potassium and glycogen. Further, glucose may also interact with potassium to protect against impaired muscle contractile function during fatigue, regardless of glycogen levels. It is likely that reduced muscle glycogen and glucose levels during exercise decrease the energy availability for Na+/K+-ATPase, exacerbating disturbances in potassium and muscle contractility. However, this interaction has only been studied in isolated muscle preparations. My PhD thesis aims to investigate the relationship between potassium and carbohydrates in human exercise performance and whether this differs between females and males.
+Recent studies using animal models have revealed that muscle fatigue caused by potassium disturbances is exacerbated with lowered glycogen levels, i.e., potassium-glycogen interaction. It is likely that reduced muscle glycogen during exercise decrease the energy availability for Na+/K+-ATPase, exacerbating disturbances in potassium and muscle contractility. However, this interaction has only been studied in isolated muscle preparations. My PhD thesis aims to investigate the relationship between potassium and glycogen in human exercise performance and whether this differs between females and males.

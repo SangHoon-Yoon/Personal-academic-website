@@ -13,7 +13,7 @@ headless: true
 weight: 120
 
 title: Top 3 reads since last update
-subtitle: "Figuring out the best protocol for critical torque/end-test torque calculation and M-wave amplitude analysis"
+subtitle:
 
 content:
   # Page type to display. E.g. post, talk, publication...
@@ -37,8 +37,8 @@ design:
   #   4 = Citation (publication only)
   view: 3
 ---
-Burnley, M. (2009). Estimation of critical torque using intermittent isometric maximal voluntary contractions of the quadriceps in humans. Journal of Applied Physiology, 106(3), 975–983. https://doi.org/10.1152/japplphysiol.91474.2008
+Cairns SP, Renaud J-M. The potassium–glycogen interaction on force and excitability in mouse skeletal muscle: implications for fatigue. J Physiol. 2023; 
 
 Ducrocq, G. P., Al Assad, S. H., Kouzkouz, N., & Hureau, T. J. (2023). The Role of Contraction Mode in Determining Exercise Tolerance, Torque-Duration Relationship, and Neuromuscular Fatigue. Medicine & Science in Sports & Exercise, Publish Ahead of Print. https://doi.org/10.1249/MSS.0000000000003145
 
-Rodriguez-Falces, J., & Place, N. (2018). Determinants, analysis and interpretation of the muscle compound action potential (M wave) in humans: Implications for the study of muscle fatigue. European Journal of Applied Physiology, 118(3), 501–521. https://doi.org/10.1007/s00421-017-3788-5
+Rodriguez-Falces, J., & Place, N. (2018). Determinants, analysis and interpretation of the muscle compound action potential (M wave) in humans: Implications for the study of muscle fatigue. European Journal of Applied Physiology, 118(3), 501–521. https://doi.org/10.1007/s00421-017-3788-51. 
