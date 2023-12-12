@@ -6,7 +6,7 @@ title: SangHoon Yoon
 superuser: true
 
 # Role/position/tagline
-role: PhD student
+role: PhD Candidate
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -19,7 +19,8 @@ bio: My research interests include sex differences in fatigue responses during h
 # Interests to show in About widget
 interests:
 - Cellular mechanisms of skeletal muscle fatigue
-- High-intensity exercise
+- M-wave
+- Critical power/torque
 - Sex differences
 
 # Education to show in About widget
@@ -67,4 +68,4 @@ email: ""
 highlight_name: true
 ---
 
-I am a PhD candidate at Auckland University of Technology, examining the muscle excitability-glycogen interaction during high intensity exercise-induced fatigue. My secondary aim is to compare this interaction between females and males. 
+I am a PhD Candidate at Auckland University of Technology, examining the muscle excitability-glycogen interaction during high intensity exercise-induced fatigue. My secondary aim is to compare this interaction between females and males. 
