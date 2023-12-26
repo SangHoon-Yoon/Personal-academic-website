@@ -10,21 +10,24 @@ main:
   - name: Experience
     url: '#experience'
     weight: 20
-  - name: Current Projects
+  - name: Current Research
     url: '#project_current'
     weight: 30
-  - name: Past Projects
+  - name: Past Research
     url: '#project_past'
     weight: 40
+  - name: Random projects
+    url: '#project_random'
+    weight: 50
   - name: Publications
     url: '#publications'
-    weight: 50
+    weight: 60
   - name: Top 3 reads
     url: '#featured'
-    weight: 60
+    weight: 70
   - name: Contact
     url: '#contact'
-    weight: 70
+    weight: 80
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
