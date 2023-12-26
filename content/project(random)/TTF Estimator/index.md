@@ -24,4 +24,4 @@ url_video: ""
 slides: ""
 ---
 
-Matlab app that estimates time to task failure based on end-test torque (ET; acquired through 5-min all-out test) and torque-impulse above ET
+Matlab app that estimates time to task failure based on 5-min all-out test results, i.e., end-test torque (ET), torque-impulse above ET, etc.
