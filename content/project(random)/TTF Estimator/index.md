@@ -1,6 +1,6 @@
 ---
 title: Time to task failure (TTF) Estimator
-summary: Matlab app that estimates time to task failure based on 5-min all-out test parameters.
+summary: Matlab app that estimates time to task failure based on 3-min/5-min all-out test parameters.
 
 date: "2023-12-25"
 
@@ -24,4 +24,4 @@ url_video: ""
 slides: ""
 ---
 
-Matlab app that estimates time to task failure based on 5-min all-out test results, i.e., end-test torque (ET), torque-impulse above ET, etc.
+Matlab app that estimates time to task failure based on 3-min (cycling) or 5-min (knee extensions) all-out test parameters.
