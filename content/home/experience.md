@@ -22,7 +22,25 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Teaching assistant
+  - title: Lecturer (casual)
+    company: Auckland University of Technology
+    company_url: ""
+    company_logo: org-aut
+    location: Auckland, New Zealand
+    date_start: "2024-07-01"
+    date_end: ""
+    description: Lead 'Human Anatomy and Physiology 1' (HEAL505) tutorials for the Auckland Grammar Rugby cohort of students.
+
+  - title: Teaching technician (part time)
+    company: Auckland University of Technology
+    company_url: ""
+    company_logo: org-aut
+    location: Auckland, New Zealand
+    date_start: "2023-08-01"
+    date_end: ""
+    description:
+
+  - title: Teaching assistant (part time)
     company: Auckland University of Technology
     company_url: ""
     company_logo: org-aut
