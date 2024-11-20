@@ -28,7 +28,7 @@ experience:
     company_logo: org-aut
     location: Auckland, New Zealand
     date_start: "2024-07-01"
-    date_end: ""
+    date_end: "2024-11-01"
     description: Lead 'Human Anatomy and Physiology 1' (HEAL505) tutorials for the Auckland Grammar Rugby cohort of students.
 
   - title: Teaching technician (part time)
