@@ -22,6 +22,15 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Teaching assistant (part time)
+    company: Auckland University of Technology
+    company_url: ""
+    company_logo: org-aut
+    location: Auckland, New Zealand
+    date_start: "2025-03-01"
+    date_end:
+    description: Lead 'Exercise physiology' (SPSC605) and support 'Exercise physiology 1' (SPSC502) workshops.
+
   - title: Lecturer (casual)
     company: Auckland University of Technology
     company_url: ""
@@ -29,7 +38,7 @@ experience:
     location: Auckland, New Zealand
     date_start: "2024-07-01"
     date_end: "2024-11-01"
-    description: Lead 'Human Anatomy and Physiology 1' (HEAL505) tutorials for the Auckland Grammar Rugby cohort of students.
+    description: Led 'Human Anatomy and Physiology 1' (HEAL505) tutorials for the Auckland Grammar Rugby cohort of students.
 
   - title: Teaching technician (part time)
     company: Auckland University of Technology
@@ -37,7 +46,7 @@ experience:
     company_logo: org-aut
     location: Auckland, New Zealand
     date_start: "2023-08-01"
-    date_end: ""
+    date_end: "2024-12-01"
     description:
 
   - title: Teaching assistant (part time)
@@ -46,8 +55,8 @@ experience:
     company_logo: org-aut
     location: Auckland, New Zealand
     date_start: "2023-02-01"
-    date_end: ""
-    description: Lead 'Evidence based practice' (SPOR608) tutorials and assist with 'Exercise Physiology' (SPSC605) laboratory component; grade assignments.
+    date_end: "2023-06-01"
+    description: Led 'Evidence based practice' (SPOR608) tutorials and assisted with 'Exercise Physiology' (SPSC605) laboratory component; graded assignments.
 
   - title: Research technician (Casual)
     company: Sports Performance Research Institute New Zealand 
@@ -56,7 +65,7 @@ experience:
     location: Auckland, New Zealand
     date_start: "2023-05-01"
     date_end: "2023-11-01"
-    description: Support research initiatives, manage and troubleshoot lab equipment.
+    description: Supported research initiatives, managed and troubleshooted lab equipment.
 
   - title: Project administrator
     company: Sylvan Adams Sports Science Institute
