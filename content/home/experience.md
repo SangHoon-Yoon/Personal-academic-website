@@ -22,15 +22,25 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+
+  - title: Research technician
+    company: Sports Performance Research Institute New Zealand 
+    company_url: ""
+    company_logo: org-sprinz
+    location: Auckland, New Zealand
+    date_start: "2023-05-01"
+    date_end:
+    description: Supported research initiatives, managed and troubleshooted lab equipment.
+
   - title: Teaching assistant (part time)
     company: Auckland University of Technology
     company_url: ""
     company_logo: org-aut
     location: Auckland, New Zealand
-    date_start: "2025-03-01"
-    date_end:
-    description: Lead 'Exercise physiology' (SPSC605) and support 'Exercise physiology 1' (SPSC502) workshops.
-
+    date_start: "2023-02-01"
+    date_end: "2025-06-01"
+    description: Led 'Evidence based practice' (SPOR608) tutorials and assisted with 'Exercise Physiology 1' (SPSC502) and 'Exercise PHysiology 2' (SPSC605) laboratory components.
+    
   - title: Lecturer (casual)
     company: Auckland University of Technology
     company_url: ""
@@ -48,24 +58,6 @@ experience:
     date_start: "2023-08-01"
     date_end: "2024-12-01"
     description:
-
-  - title: Teaching assistant (part time)
-    company: Auckland University of Technology
-    company_url: ""
-    company_logo: org-aut
-    location: Auckland, New Zealand
-    date_start: "2023-02-01"
-    date_end: "2023-06-01"
-    description: Led 'Evidence based practice' (SPOR608) tutorials and assisted with 'Exercise Physiology' (SPSC605) laboratory component; graded assignments.
-
-  - title: Research technician (Casual)
-    company: Sports Performance Research Institute New Zealand 
-    company_url: ""
-    company_logo: org-sprinz
-    location: Auckland, New Zealand
-    date_start: "2023-05-01"
-    date_end: "2023-11-01"
-    description: Supported research initiatives, managed and troubleshooted lab equipment.
 
   - title: Project administrator
     company: Sylvan Adams Sports Science Institute
