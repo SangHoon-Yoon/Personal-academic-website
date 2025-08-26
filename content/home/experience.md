@@ -32,25 +32,25 @@ experience:
     date_end:
     description: Supported research initiatives, managed and troubleshooted lab equipment.
 
-  - title: Teaching assistant (part time)
+  - title: Teaching assistant
     company: Auckland University of Technology
     company_url: ""
     company_logo: org-aut
     location: Auckland, New Zealand
     date_start: "2023-02-01"
     date_end: "2025-06-01"
-    description: Led 'Evidence based practice' (SPOR608) tutorials and assisted with 'Exercise Physiology 1' (SPSC502) and 'Exercise PHysiology 2' (SPSC605) laboratory components.
+    description: Taught the following courses: 'Evidence based practice' (SPOR608), 'Exercise Physiology 1' (SPSC502), 'Exercise PHysiology 2' (SPSC605).
     
-  - title: Lecturer (casual)
+  - title: Lecturer
     company: Auckland University of Technology
     company_url: ""
     company_logo: org-aut
     location: Auckland, New Zealand
     date_start: "2024-07-01"
     date_end: "2024-11-01"
-    description: Led 'Human Anatomy and Physiology 1' (HEAL505) tutorials for the Auckland Grammar Rugby cohort of students.
+    description: Lectured 'Human Anatomy and Physiology 1' (HEAL505).
 
-  - title: Teaching technician (part time)
+  - title: Teaching technician
     company: Auckland University of Technology
     company_url: ""
     company_logo: org-aut
@@ -84,7 +84,7 @@ experience:
     location: Montreal, QC
     date_start: '2018-12-01'
     date_end: '2021-12-01'
-    description: Recruited and coordinated volunteers for Unified Sport, Training Support Project, and Virtual Workout/Yoga program.
+    description: Recruited and coordinated volunteers for Unified Sport, Training Support Project, and Virtual physical activity program.
 
   - title: Research assistant
     company: Institut national du sport du Québec
