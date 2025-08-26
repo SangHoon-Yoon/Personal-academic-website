@@ -29,8 +29,8 @@ experience:
     company_logo: org-sprinz
     location: Auckland, New Zealand
     date_start: "2023-05-01"
-    date_end:
-    description: Supported research initiatives, managed and troubleshooted lab equipment.
+    date_end: ""
+    description: Supported research initiatives, managed and troubleshot lab equipment.
 
   - title: Teaching assistant
     company: Auckland University of Technology
@@ -39,7 +39,7 @@ experience:
     location: Auckland, New Zealand
     date_start: "2023-02-01"
     date_end: "2025-06-01"
-    description: Taught the following courses: 'Evidence based practice' (SPOR608), 'Exercise Physiology 1' (SPSC502), 'Exercise PHysiology 2' (SPSC605).
+    description: Taught 'Evidence based practice' (SPOR608), 'Exercise Physiology 1' (SPSC502), 'Exercise PHysiology 2' (SPSC605). 
     
   - title: Lecturer
     company: Auckland University of Technology
@@ -57,7 +57,7 @@ experience:
     location: Auckland, New Zealand
     date_start: "2023-08-01"
     date_end: "2024-12-01"
-    description:
+    description: ""
 
   - title: Project administrator
     company: Sylvan Adams Sports Science Institute
@@ -93,7 +93,7 @@ experience:
     location: Montreal, QC
     date_start: '2020-02-01'
     date_end: '2020-04-30'
-    description: Assisted with data acquisition and analysis for a project in collaboration with Judo Canada.
+    description: Assisted with data acquisition and analysis for a project in collaboration with Judo Canada. 
 
 design:
   columns: '2'
