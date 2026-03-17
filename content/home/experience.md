@@ -23,13 +23,22 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
 
+  - title: Lecturer (casual)
+    company:  Auckland University of Technology
+    company_url: ""
+    company_logo: org-sprinz
+    location: Auckland, New Zealand
+    date_start: "2023-05-01"
+    date_end: 2025-12-01"
+    description: Exercise physiology 2 (SPSC605).
+
   - title: Research technician
     company: Sports Performance Research Institute New Zealand 
     company_url: ""
     company_logo: org-sprinz
     location: Auckland, New Zealand
     date_start: "2023-05-01"
-    date_end: ""
+    date_end: 2025-12-01"
     description: Supported research initiatives, managed and troubleshot lab equipment.
 
   - title: Teaching assistant
