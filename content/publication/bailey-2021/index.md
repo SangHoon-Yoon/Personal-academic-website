@@ -7,9 +7,9 @@ title: 'Relative variability in muscle activation amplitude, muscle oxygenation,
 subtitle: ''
 summary: ''
 authors:
-- Christopher A. Bailey
-- SangHoon Yoon
-- Julie N. Côté
+- C.A. Bailey
+- S. Yoon
+- J.N. Côté
 tags:
 - '"Aging"'
 - '"Electromyography"'

@@ -5,9 +5,9 @@ title: Females show less decline in contractile function than males after repeat
 subtitle: ''
 summary: ''
 authors:
-- SangHoon Yoon
-- Lauren A. Cederbaum
-- Julie N. Côté
+- S. Yoon
+- L.A. Cederbaum
+- J.N. Côté
 tags:
 - '"sex"'
 - '"peripheral fatigue"'
@@ -41,6 +41,5 @@ publication_types:
 abstract: Females demonstrate greater fatigue resistance during a range of exercise modalities; however, this may be confounded by the lower mechanical work completed. Accordingly, this study examined the sex-specific peripheral and central fatigue mechanisms during repeated all-out cycling and whether they are affected by total mechanical work performed. A total of 26 healthy young adults (12 females) performed 10 × 10 s all-out cycling interspersed by 30 s passive recovery. Metabolic responses, peripheral and central fatigue, were quantified via changes in pre- to post-exercise blood lactate, potentiated quadriceps twitch force (and contractile properties) evoked via supramaximal electrical stimulation of the femoral nerve, and voluntary activation of the knee extensors, respectively. During exercise, mechanical work, vastus lateralis muscle activation (via surface electromyography), and deoxygenation (via near-infrared spectroscopy) were recorded. Sex comparison analyses were performed before and after statistically controlling for total mechanical work (via ANCOVA). Mechanical work and muscle activation plateaued at similar sprint repetition (sprint 5) and voluntary activation change (pre vs. post) was similar between the sexes. Females, however, showed lower %work decrement (i.e., fatigability; P = 0.037) and peripheral responses as evident by lower reductions in quadriceps twitch force (P < 0.001) and muscle deoxygenation (P = 0.001). Adjusting for total mechanical work did not change these sex comparison results. We show that females’ greater fatigue resistance during repeated all-out cycling may not be attributed to the greater total mechanical work performed but could be mediated by lower peripheral fatigue in the knee extensor muscles.
 
 publication: '*Applied Physiology, Nutrition, and Metabolism*'
-url_pdf: https://cdnsciencepub.com/doi/10.1139/apnm-2023-0184
 doi: 10.1139/apnm-2023-0184
 ---

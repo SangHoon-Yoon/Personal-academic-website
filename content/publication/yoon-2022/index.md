@@ -5,9 +5,9 @@ title: 'Sex-specific muscle activation and oxygenation kinetics during a repetit
 subtitle: ''
 summary: ''
 authors:
-- SangHoon Yoon
-- Christopher A. Bailey
-- Julie N. Côté
+- S. Yoon
+- C.A. Bailey
+- J.N. Côté
 tags:
 - '"Sex differences"'
 - '"Electromyography"'

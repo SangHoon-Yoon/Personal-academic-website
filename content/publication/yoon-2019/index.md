@@ -5,9 +5,9 @@ title: Effects of cycling while typing on upper limb and performance characteris
 subtitle: ''
 summary: ''
 authors:
-- SangHoon Yoon
-- Thierry Lefrançois-Daignault
-- Julie N. Côté
+- S. Yoon
+- T. Lefrançois-Daignault
+- J.N. Côté
 tags:
 - '"Biking"'
 - '"Computer work"'
@@ -49,6 +49,5 @@ abstract: Active computer workstations may help reduce workplace sedentarism. Ho
   biking while typing effectively improved performance, which may facilitate muscle
   regeneration, although effects depend on biking intensity.
 publication: '*Applied Ergonomics*'
-url_pdf: https://doi.org/10.1016/j.apergo.2019.05.015
 doi: 10.1016/j.apergo.2019.05.015
 ---
