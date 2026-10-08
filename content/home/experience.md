@@ -23,50 +23,32 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
 
-  - title: Lecturer (casual)
-    company:  Auckland University of Technology
+  - title: Exercise Physiologist
+    company: Sports Performance Research Institute New Zealand
     company_url: ""
     company_logo: org-sprinz
     location: Auckland, New Zealand
-    date_start: "2023-05-01"
-    date_end: 2025-12-01"
-    description: Exercise physiology 2 (SPSC605).
+    date_start: "2025-01-01"
+    date_end: ""
+    description: Physiological testing (DXA, VO2peak) and training-zone prescription for clients. Isokinetic dynamometry assessment for National-level athletes.
 
-  - title: Research technician
-    company: Sports Performance Research Institute New Zealand 
-    company_url: ""
-    company_logo: org-sprinz
-    location: Auckland, New Zealand
-    date_start: "2023-05-01"
-    date_end: 2025-12-01"
-    description: Supported research initiatives, managed and troubleshot lab equipment.
-
-  - title: Teaching assistant
-    company: Auckland University of Technology
-    company_url: ""
-    company_logo: org-aut
-    location: Auckland, New Zealand
-    date_start: "2023-02-01"
-    date_end: "2025-06-01"
-    description: Taught 'Evidence based practice' (SPOR608), 'Exercise Physiology 1' (SPSC502), 'Exercise PHysiology 2' (SPSC605). 
-    
   - title: Lecturer
     company: Auckland University of Technology
     company_url: ""
     company_logo: org-aut
     location: Auckland, New Zealand
-    date_start: "2024-07-01"
-    date_end: "2024-11-01"
-    description: Lectured 'Human Anatomy and Physiology 1' (HEAL505).
+    date_start: "2023-02-01"
+    date_end: ""
+    description: Taught Exercise Physiology (1 & 2), Human Anatomy & Physiology, Athletic Conditioning, and Evidence Based Practice.
 
-  - title: Teaching technician
-    company: Auckland University of Technology
+  - title: Research Technician
+    company: Sports Performance Research Institute New Zealand 
     company_url: ""
-    company_logo: org-aut
+    company_logo: org-sprinz
     location: Auckland, New Zealand
-    date_start: "2023-08-01"
-    date_end: "2024-12-01"
-    description: ""
+    date_start: "2023-05-01"
+    date_end: "2025-12-01"
+    description: Equipment calibration and maintenance. Created MATLAB functions for biomechanics and physiology data processing.
 
   - title: Project administrator
     company: Sylvan Adams Sports Science Institute
